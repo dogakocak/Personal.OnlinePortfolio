@@ -7,7 +7,8 @@
 
 :root {
     --background-color: #f6f6f6;
-    --foreground-color: #003cff;
+    --foreground-color: #468faf;
+    --foreground-color-hover: #2a6f97;
     --primary-text-color: #0a0a0a;
     --secondary-text-color: #ffffff;
     --toggle-bg: #f0eb9d;
@@ -15,8 +16,9 @@
 }
 
 [data-theme="dark"] {
-    --background-color: #0a0a0a;
+    --background-color: #282C34;
     --foreground-color: #567aff;
+    --foreground-color-hover:#2f5bfe;
     --primary-text-color: #f6f6f6;
     --secondary-text-color: #0a0a0a;
     --toggle-bg: #283452;
